@@ -131,3 +131,7 @@ while confirm == "No":
 
 if confirm == "Yes":
     easygui.msgbox("Thanks for ordering!", "GOODBYE")
+
+#MAIN ROUTINE
+
+price_add = 0
